@@ -1,0 +1,5 @@
+# Automatically created by mypy
+/.idea
+*.json
+*.tag
+
