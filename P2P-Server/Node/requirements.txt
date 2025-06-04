@@ -1,0 +1,8 @@
+PyQt5==5.15.11
+qrcode==8.1
+cryptography==44.0.0
+Pillow==11.1.0
+fastapi==0.115.12
+pydantic==2.11.3
+uvicorn==0.34.0
+requests==2.32.3

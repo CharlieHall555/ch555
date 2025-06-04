@@ -1,0 +1,4 @@
+pause 5 
+        add_validator B
+        pause 5
+        quit

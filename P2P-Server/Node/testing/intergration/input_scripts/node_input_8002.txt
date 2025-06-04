@@ -1,0 +1,5 @@
+pause 2
+        connect "127.0.0.1" 8000
+        connect "127.0.0.1" 8001
+        pause 30
+        quit

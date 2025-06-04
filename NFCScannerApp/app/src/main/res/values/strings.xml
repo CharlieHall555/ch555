@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFCScannerApp</string>
+    <string name="title_activity_scanner">ScannerActivity</string>
+</resources>
